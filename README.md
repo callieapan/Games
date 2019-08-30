@@ -1,2 +1,2 @@
-# Python-Lessons
-projects I've done while learning Python
+Small games written in Python
+
